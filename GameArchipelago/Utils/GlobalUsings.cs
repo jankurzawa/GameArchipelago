@@ -1,0 +1,17 @@
+﻿global using GameArchipelago.Data.DAL;
+global using GameArchipelago.Data.Model;
+global using GameArchipelago.Forms.Dino;
+global using GameArchipelago.Forms.PixelRace;
+global using GameArchipelago.Forms.Snake;
+global using GameArchipelago.Forms.Tetris;
+global using GameArchipelago.Forms;
+global using GameArchipelago.Logic.Games.Dino;
+global using GameArchipelago.Logic.Games.PixelRace;
+global using GameArchipelago.Logic.Games.Snake;
+global using GameArchipelago.Logic.Games.StonePaperScissors;
+global using GameArchipelago.Logic.Games.TicTacToe;
+global using GameArchipelago.Logic.Games.Wordle;
+global using GameArchipelago.Logic.Highscores;
+global using System.Diagnostics;
+global using System.Text;
+global using GameArchipelago.Logic.Games.Tetris;
